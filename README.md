@@ -1,0 +1,2 @@
+# homebrew-joke
+Formula Joke
